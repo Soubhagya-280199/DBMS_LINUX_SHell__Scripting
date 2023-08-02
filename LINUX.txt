@@ -1,3 +1,4 @@
+Writing for example purpose
 Lunch EC2 instance on windows:---
 	First of all, we need to create an EC2 instance in our AWS console after that we have to 
 to go to connect to instances 
